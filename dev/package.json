@@ -1,0 +1,23 @@
+{
+  "name": "noteappdev",
+  "version": "0.1.1",
+  "description": "app to take notes and generate JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "insert git repo"
+  },
+  "keywords": [
+    "angular",
+    "html",
+    "css",
+    "javascript",
+    "mongo",
+    "node"
+  ],
+  "author": "jk",
+  "license": "ISC"
+}
